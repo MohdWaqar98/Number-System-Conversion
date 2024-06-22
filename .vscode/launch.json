@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+
+        
+        {
+            "type": "java",
+            "name": "Spring Boot-ConversionApplication<conversion>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.conversion.ConversionApplication",
+            "projectName": "conversion",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
