@@ -61,8 +61,9 @@ To run the application, follow these steps:
    ```sh
    ./mvnw spring-boot:run
    ```
-  You can run on Visual Code Terminal
-  ![image](https://github.com/MohdWaqar98/Number-System-Conversion/assets/98345819/416f7b21-ac4f-4305-8ba6-96eb28369dd7)
+   -You can run this application manually in the terminal by clicking "Run in Java".
+   ![image](https://github.com/MohdWaqar98/Number-System-Conversion/assets/98345819/a4109372-284f-40a9-88c5-963b47cc0f4d)
+
 
 5. Open your web browser and go to `http://localhost:8080` to use the converter.
 
