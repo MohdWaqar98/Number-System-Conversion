@@ -1,6 +1,3 @@
-Here's a description for your project repository:
-
----
 
 # Decimal and Binary Converter
 ![image](https://github.com/MohdWaqar98/Number-System-Conversion/assets/98345819/9da27e83-9f8a-4909-9a03-48fce6a25bc8)
@@ -63,7 +60,6 @@ To run the application, follow these steps:
    ```sh
    ./mvnw spring-boot:run
    ```
-    OR
   You can run on Visual Code Terminal
   ![image](https://github.com/MohdWaqar98/Number-System-Conversion/assets/98345819/416f7b21-ac4f-4305-8ba6-96eb28369dd7)
 
