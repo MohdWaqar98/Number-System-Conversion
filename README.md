@@ -1,6 +1,7 @@
 
 # Decimal and Binary Converter
-![image](https://github.com/MohdWaqar98/Number-System-Conversion/assets/98345819/9da27e83-9f8a-4909-9a03-48fce6a25bc8)
+![image](https://github.com/MohdWaqar98/Number-System-Conversion/assets/98345819/53b61fcd-ab17-4851-a34f-9fcc0689489b)
+
 
 This project is a web application that allows users to convert decimal numbers to binary and binary numbers to decimal. The application is built using Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend.
 
